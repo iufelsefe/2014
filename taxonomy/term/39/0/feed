@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://2014.felsefe.istanbul" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>İstanbul Üniversitesi Felsefe Bölümü - Bilinç</title>
+ <link>https://2014.felsefe.istanbul/taxonomy/term/39/0</link>
+ <description></description>
+ <language>tr</language>
+<item>
+ <title>Bölüm İçi Seminerleri Devam Ediyor</title>
+ <link>https://2014.felsefe.istanbul/node/136</link>
+ <description>&lt;div class=&quot;event-nodeapi&quot;&gt;&lt;div class=&quot;event-start&quot;&gt;&lt;label&gt;Başlangıç: &lt;/label&gt;13/03/2007 - 14:30&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Bölüm içi seminerleri kapsamında 13 Mart 2007 Salı günü saat 14:30’da Felsefe Bölümü Seminer Kitaplığı’nda düzenlenecek olan oturumda Dr. Uğur Ekren ‘Franz Brentano ve David Hume&#039;da Bilincin Birliği Problemi’ başlıklı bir seminer verecektir.&lt;/p&gt;
+
+
+</description>
+ <comments>https://2014.felsefe.istanbul/node/136#comments</comments>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/39">Bilinç</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/44">David  Hume</category>
+ <category domain="https://2014.felsefe.istanbul/duyurular">Duyurular</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/2">Felsefe Tarihi Anabilim Dalı</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/37">Franz Brentano</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/41">Sempozyum-Konferans</category>
+ <pubDate>Wed, 07 Mar 2007 12:51:24 +0000</pubDate>
+ <dc:creator>vkamer</dc:creator>
+ <guid isPermaLink="false">136 at https://2014.felsefe.istanbul</guid>
+</item>
+</channel>
+</rss>

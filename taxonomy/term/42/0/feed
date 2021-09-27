@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://2014.felsefe.istanbul" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>İstanbul Üniversitesi Felsefe Bölümü - Bilim Felsefesi</title>
+ <link>https://2014.felsefe.istanbul/taxonomy/term/42/0</link>
+ <description></description>
+ <language>tr</language>
+<item>
+ <title>&quot;Tıp, Praksis ve Etik&quot;</title>
+ <link>https://2014.felsefe.istanbul/node/309</link>
+ <description>&lt;div class=&quot;event-nodeapi&quot;&gt;&lt;div class=&quot;event-start&quot;&gt;&lt;label&gt;Başlangıç: &lt;/label&gt;22/01/2010 - 14:00&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;event-nodeapi&quot;&gt;&lt;div class=&quot;event-end&quot;&gt;&lt;label&gt;Bitiş: &lt;/label&gt;22/01/2010 - 15:00&lt;/div&gt;&lt;/div&gt;
+&lt;p align=&quot;justify&quot;&gt;
+Prof. Dr. Cengiz Çakmak, Tıp Tarihi Anabilim dalı Etkinlikleri kapsamında 22 Ocak 2010 günü saat 14:00&#039;te İstanbul Üniversitesi Tıp Fakültesi Deontoloji ve Tıp Tarihi Anabilim Dalı&#039;nda (Horhor Caddesi No:1 Fatih) &amp;quot;Tıp, Praksis ve Etik&amp;quot; isimli bir konuşma gerçekleştirecektir. 
+&lt;/p&gt;
+
+
+</description>
+ <comments>https://2014.felsefe.istanbul/node/309#comments</comments>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/42">Bilim Felsefesi</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/62">Cengiz Çakmak</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/2">Felsefe Tarihi Anabilim Dalı</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/8">Prof. Dr. Cengiz Çakmak</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/41">Sempozyum-Konferans</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/74">tıp felsefesi</category>
+ <pubDate>Tue, 12 Jan 2010 09:26:07 +0000</pubDate>
+ <dc:creator>Özgür Yılmaz</dc:creator>
+ <guid isPermaLink="false">309 at https://2014.felsefe.istanbul</guid>
+</item>
+</channel>
+</rss>

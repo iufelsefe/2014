@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://2014.felsefe.istanbul" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>İstanbul Üniversitesi Felsefe Bölümü - Matematik Felsefesi</title>
+ <link>https://2014.felsefe.istanbul/taxonomy/term/50/0</link>
+ <description></description>
+ <language>tr</language>
+<item>
+ <title>Kant&#039;ın Matematik Felsefesi</title>
+ <link>https://2014.felsefe.istanbul/node/153</link>
+ <description>&lt;div class=&quot;event-nodeapi&quot;&gt;&lt;div class=&quot;event-start&quot;&gt;&lt;label&gt;Başlangıç: &lt;/label&gt;10/04/2007 - 13:30&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;event-nodeapi&quot;&gt;&lt;div class=&quot;event-end&quot;&gt;&lt;label&gt;Bitiş: &lt;/label&gt;10/04/2007 - 14:30&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;İstanbul Üniversitesi Felsefe Bölümü Seminer Kitaplı&#039;ğında 24 Nisan Salı Günü saat 13:30&#039;da, Arş. Gör. Özgüç Güven &quot;Kant&#039;ın Matematik Felsefesi&quot; adlı bir seminer verecektir.&lt;/p&gt;
+
+
+</description>
+ <comments>https://2014.felsefe.istanbul/node/153#comments</comments>
+ <category domain="https://2014.felsefe.istanbul/duyurular">Duyurular</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/49">Immanuel Kant</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/1">Mantık Anabilim Dalı</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/50">Matematik Felsefesi</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/41">Sempozyum-Konferans</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/32">Yrd. Doç. Dr. Özgüç Güven</category>
+ <pubDate>Tue, 10 Apr 2007 11:58:22 +0000</pubDate>
+ <dc:creator>Özgüç Güven</dc:creator>
+ <guid isPermaLink="false">153 at https://2014.felsefe.istanbul</guid>
+</item>
+</channel>
+</rss>

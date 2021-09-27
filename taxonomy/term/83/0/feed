@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://2014.felsefe.istanbul" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>İstanbul Üniversitesi Felsefe Bölümü - Arş. Gör. İbrahim Halil Çetres</title>
+ <link>https://2014.felsefe.istanbul/taxonomy/term/83/0</link>
+ <description></description>
+ <language>tr</language>
+<item>
+ <title>Arş. Gör. İbrahim Halil Çetres</title>
+ <link>https://2014.felsefe.istanbul/ogretimuyeleri/ibrahimhalilcetres</link>
+ <description>&lt;h1 style=&quot;text-align: center&quot;&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;
+&lt;img src=&quot;/files/images/ibrahimcetres.jpg&quot; height=&quot;235&quot; width=&quot;250&quot; /&gt;
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;
+&lt;b&gt;İletişim &lt;/b&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;b&gt;Oda&lt;/b&gt;: 217&lt;br /&gt;
+	&lt;b&gt;Telefon&lt;/b&gt;: 212-4555700 / 15801&lt;br /&gt;
+	&lt;b&gt;E-posta&lt;/b&gt;: &lt;a href=&quot;mailto:ibrahimcetres@gmail.com&quot;&gt;ibrahimcetres@gmail.com&lt;/a&gt; 
+&lt;/blockquote&gt;
+
+
+</description>
+ <comments>https://2014.felsefe.istanbul/ogretimuyeleri/ibrahimhalilcetres#comments</comments>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/83">Arş. Gör. İbrahim Halil Çetres</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/1">Mantık Anabilim Dalı</category>
+ <pubDate>Fri, 15 Feb 2013 12:52:39 +0000</pubDate>
+ <dc:creator>vkamer</dc:creator>
+ <guid isPermaLink="false">446 at https://2014.felsefe.istanbul</guid>
+</item>
+</channel>
+</rss>

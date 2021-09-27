@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://2014.felsefe.istanbul" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>İstanbul Üniversitesi Felsefe Bölümü - Felsefe Topluluğu</title>
+ <link>https://2014.felsefe.istanbul/taxonomy/term/53/0</link>
+ <description></description>
+ <language>tr</language>
+<item>
+ <title>Felsefe Topluluğu Öğrenci Kongresi</title>
+ <link>https://2014.felsefe.istanbul/node/159</link>
+ <description>&lt;div class=&quot;event-nodeapi&quot;&gt;&lt;div class=&quot;event-start&quot;&gt;&lt;label&gt;Başlangıç: &lt;/label&gt;17/05/2007 - 10:00&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;event-nodeapi&quot;&gt;&lt;div class=&quot;event-end&quot;&gt;&lt;label&gt;Bitiş: &lt;/label&gt;18/05/2007 - 17:00&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;İstanbul Üniversitesi Felsefe Bölümü Felsefe Topluluğu&#039;nun düzenlediği &#039;Felsefe ve Toplum&#039; başlığını taşıyan 10. Öğrennci Kongresi 17 - 18 Mayıs 2007 tarihlerinde Edebiyat Fakültesi Genel Kurul Salonunda yapılacaktır.&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;https://2014.felsefe.istanbul/node/159&quot;&gt;devamını oku&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>https://2014.felsefe.istanbul/node/159#comments</comments>
+ <category domain="https://2014.felsefe.istanbul/duyurular">Duyurular</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/53">Felsefe Topluluğu</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/52">Öğrenci Kongresi</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/41">Sempozyum-Konferans</category>
+ <pubDate>Thu, 10 May 2007 06:57:33 +0000</pubDate>
+ <dc:creator>Özgür Yılmaz</dc:creator>
+ <guid isPermaLink="false">159 at https://2014.felsefe.istanbul</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://2014.felsefe.istanbul" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>İstanbul Üniversitesi Felsefe Bölümü - Şafak Ural</title>
+ <link>https://2014.felsefe.istanbul/taxonomy/term/60/0</link>
+ <description></description>
+ <language>tr</language>
+<item>
+ <title>Felsefe Bölümü Açılış Dersi</title>
+ <link>https://2014.felsefe.istanbul/node/196</link>
+ <description>&lt;div align=&quot;justify&quot;&gt;
+Felsefe Bölümü 2007 - 2008 öğretim yılı Açılış Dersi Prof. Dr. Şafak Ural tarafından, 4 Ekim 2007 Perşembe günü Saat 15:00&#039;te, Amfi 3&#039;te yapılacaktır. &lt;br /&gt;
+&lt;/div&gt;
+
+
+</description>
+ <comments>https://2014.felsefe.istanbul/node/196#comments</comments>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/61">Açılış Dersi</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/60">Şafak Ural</category>
+ <pubDate>Fri, 21 Sep 2007 11:20:36 +0000</pubDate>
+ <dc:creator>Özgür Yılmaz</dc:creator>
+ <guid isPermaLink="false">196 at https://2014.felsefe.istanbul</guid>
+</item>
+</channel>
+</rss>

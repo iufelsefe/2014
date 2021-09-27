@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://2014.felsefe.istanbul" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>İstanbul Üniversitesi Felsefe Bölümü - Açılış Dersi</title>
+ <link>https://2014.felsefe.istanbul/taxonomy/term/61/0</link>
+ <description></description>
+ <language>tr</language>
+<item>
+ <title>Felsefe Bölümü Açılış Dersi</title>
+ <link>https://2014.felsefe.istanbul/node/238</link>
+ <description>&lt;div class=&quot;event-nodeapi&quot;&gt;&lt;div class=&quot;event-start&quot;&gt;&lt;label&gt;Başlangıç: &lt;/label&gt;09/10/2008 - 14:30&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;event-nodeapi&quot;&gt;&lt;div class=&quot;event-end&quot;&gt;&lt;label&gt;Bitiş: &lt;/label&gt;09/10/2008 - 16:00&lt;/div&gt;&lt;/div&gt;
+Felsefe Bölümü  açılış dersi 9 Ekim günü saat 14:30&#039;da Amfi 3&#039;te Prof. Dr. Ş. Teoman Duralı tarafından yapılacaktır. Tüm öğrencilerimiz davetlidir. 
+
+
+</description>
+ <comments>https://2014.felsefe.istanbul/node/238#comments</comments>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/61">Açılış Dersi</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/7">Prof. Dr. Ş. Teoman Duralı</category>
+ <pubDate>Fri, 26 Sep 2008 12:04:11 +0000</pubDate>
+ <dc:creator>Özgür Yılmaz</dc:creator>
+ <guid isPermaLink="false">238 at https://2014.felsefe.istanbul</guid>
+</item>
+<item>
+ <title>Felsefe Bölümü Açılış Dersi</title>
+ <link>https://2014.felsefe.istanbul/node/196</link>
+ <description>&lt;div align=&quot;justify&quot;&gt;
+Felsefe Bölümü 2007 - 2008 öğretim yılı Açılış Dersi Prof. Dr. Şafak Ural tarafından, 4 Ekim 2007 Perşembe günü Saat 15:00&#039;te, Amfi 3&#039;te yapılacaktır. &lt;br /&gt;
+&lt;/div&gt;
+
+
+</description>
+ <comments>https://2014.felsefe.istanbul/node/196#comments</comments>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/61">Açılış Dersi</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/60">Şafak Ural</category>
+ <pubDate>Fri, 21 Sep 2007 11:20:36 +0000</pubDate>
+ <dc:creator>Özgür Yılmaz</dc:creator>
+ <guid isPermaLink="false">196 at https://2014.felsefe.istanbul</guid>
+</item>
+</channel>
+</rss>

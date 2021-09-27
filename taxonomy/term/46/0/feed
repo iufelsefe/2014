@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://2014.felsefe.istanbul" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>İstanbul Üniversitesi Felsefe Bölümü - Georg Wilhelm Friedrich Hegel</title>
+ <link>https://2014.felsefe.istanbul/taxonomy/term/46/0</link>
+ <description></description>
+ <language>tr</language>
+<item>
+ <title>Hegel Felsefesi Üzerine</title>
+ <link>https://2014.felsefe.istanbul/node/147</link>
+ <description>&lt;div class=&quot;event-nodeapi&quot;&gt;&lt;div class=&quot;event-start&quot;&gt;&lt;label&gt;Başlangıç: &lt;/label&gt;26/01/2007 - 19:00&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Dr. Enver Orman 26 Ocak 2007 Cuma günü saat 19:00&#039;da Makina Mühendisleri Odası&#039;nda &quot;Hegel Felsefesi Üzerine&quot; başlıklı bir konferans verecektir.&lt;/p&gt;
+
+
+</description>
+ <comments>https://2014.felsefe.istanbul/node/147#comments</comments>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/18">Doç. Dr. Enver Orman</category>
+ <category domain="https://2014.felsefe.istanbul/duyurular">Duyurular</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/46">Georg Wilhelm Friedrich Hegel</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/41">Sempozyum-Konferans</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/3">Sistematik Felsefe Anabilim Dalı</category>
+ <pubDate>Sat, 20 Jan 2007 20:08:11 +0000</pubDate>
+ <dc:creator>vkamer</dc:creator>
+ <guid isPermaLink="false">147 at https://2014.felsefe.istanbul</guid>
+</item>
+</channel>
+</rss>

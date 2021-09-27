@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://2014.felsefe.istanbul" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>İstanbul Üniversitesi Felsefe Bölümü - Doç. Dr. O. Faruk Akyol</title>
+ <link>https://2014.felsefe.istanbul/taxonomy/term/9/0</link>
+ <description></description>
+ <language>tr</language>
+<item>
+ <title>&quot;Inter-civilization Harmony and Creation&quot;</title>
+ <link>https://2014.felsefe.istanbul/node/149</link>
+ <description>&lt;div class=&quot;event-nodeapi&quot;&gt;&lt;div class=&quot;event-start&quot;&gt;&lt;label&gt;Başlangıç: &lt;/label&gt;16/04/2007 - 10:00&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;event-nodeapi&quot;&gt;&lt;div class=&quot;event-end&quot;&gt;&lt;label&gt;Bitiş: &lt;/label&gt;19/04/2007 - 16:00&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Doç. Dr. O. Faruk Akyol, 16-19 Nisan 2007 tarihlerinde Çin’in Huangzhou kentindeki Zhejiang Üniversitesi’nin 110. kuruluş yıldönümü etkinlikleri çerçevesinde düzenlenen “Inter-civilization Harmony and Creation” adlı sempozyumda “Irreversible Imagination in Changing” başlıklı bir bildiri sunacaktır.&lt;/p&gt;
+
+
+</description>
+ <comments>https://2014.felsefe.istanbul/node/149#comments</comments>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/9">Doç. Dr. O. Faruk Akyol</category>
+ <category domain="https://2014.felsefe.istanbul/duyurular">Duyurular</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/41">Sempozyum-Konferans</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/3">Sistematik Felsefe Anabilim Dalı</category>
+ <pubDate>Tue, 20 Mar 2007 22:27:08 +0000</pubDate>
+ <dc:creator>vkamer</dc:creator>
+ <guid isPermaLink="false">149 at https://2014.felsefe.istanbul</guid>
+</item>
+</channel>
+</rss>

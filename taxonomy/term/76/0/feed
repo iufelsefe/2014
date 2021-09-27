@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://2014.felsefe.istanbul" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>İstanbul Üniversitesi Felsefe Bölümü - tıp felsefesi. cengiz çakmak</title>
+ <link>https://2014.felsefe.istanbul/taxonomy/term/76/0</link>
+ <description></description>
+ <language>tr</language>
+<item>
+ <title>Tıp Felsefesi Konferansları</title>
+ <link>https://2014.felsefe.istanbul/node/343</link>
+ <description>&lt;div class=&quot;event-nodeapi&quot;&gt;&lt;div class=&quot;event-start&quot;&gt;&lt;label&gt;Başlangıç: &lt;/label&gt;02/11/2010 - 13:00&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;event-nodeapi&quot;&gt;&lt;div class=&quot;event-end&quot;&gt;&lt;label&gt;Bitiş: &lt;/label&gt;02/11/2010 - 17:00&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;2 Kasım 2010 günü Medipol Üniversitesi&#039;nde Prof. Dr. Cengiz Çakmak&#039;ın katılımları ile tıp felsefesi konulu bir konferans düzenlenmiştir. &lt;/p&gt;
+
+
+</description>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/2">Felsefe Tarihi Anabilim Dalı</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/8">Prof. Dr. Cengiz Çakmak</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/41">Sempozyum-Konferans</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/75">tıp etiği</category>
+ <category domain="https://2014.felsefe.istanbul/taxonomy/term/76">tıp felsefesi. cengiz çakmak</category>
+ <pubDate>Sat, 04 Dec 2010 19:48:02 +0000</pubDate>
+ <dc:creator>Özgür Yılmaz</dc:creator>
+ <guid isPermaLink="false">343 at https://2014.felsefe.istanbul</guid>
+</item>
+</channel>
+</rss>
