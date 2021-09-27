@@ -1,0 +1,9 @@
+; $Id: footnotes.info,v 1.2 2007/02/07 15:56:23 augustin Exp $
+name = Footnotes
+description = "Easily add footnotes to your posts."
+version = VERSION
+
+; Information added by drupal.org packaging script on 2007-04-29
+version = "5.x-1.2"
+project = "footnotes"
+

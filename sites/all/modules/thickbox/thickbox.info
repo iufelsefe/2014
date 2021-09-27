@@ -1,0 +1,10 @@
+; $Id: thickbox.info,v 1.2.2.1 2007/04/05 08:11:49 frjo Exp $
+name = Thickbox
+description = Enables Thickbox, a jQuery plugin.
+version = "$Name: DRUPAL-5--1-0 $"
+
+; Information added by drupal.org packaging script on 2007-06-05
+version = "5.x-1.0"
+project = "thickbox"
+datestamp = "1181025310"
+
